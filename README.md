@@ -64,7 +64,7 @@ Make sure your notebook is running on the same machine as your MySQL installatio
 👨‍💻 Author
 Developed by ExploreAI Academy
 
-Adapted and enhanced by Ibrahim Ambale if you wish to customize
+Adapted and enhanced by Ibrahim Ambale
 ---
 
 
