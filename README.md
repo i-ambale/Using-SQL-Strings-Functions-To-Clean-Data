@@ -1,4 +1,3 @@
----
 # 🧹 Using SQL String Functions to Clean Data
 This notebook demonstrates how to use SQL string functions to clean up and standardize text data in a relational database — explicitly 
 
