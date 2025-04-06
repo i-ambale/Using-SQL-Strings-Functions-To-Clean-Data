@@ -1,4 +1,5 @@
 # 🧹 Using SQL String Functions to Clean Data
+
 This notebook demonstrates how to use SQL string functions to clean up and standardize text data in a relational database — explicitly focusing on entries in the `Country_name` column of the `Access_to_Basic_Services` table in the `united_nations` MySQL database.
 | ⚠️ Important: This notebook is intended to run locally and not on Google Colab, as it requires a connection to a local MySQL database.
 ---
